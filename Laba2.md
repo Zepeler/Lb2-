@@ -13,10 +13,10 @@ Lab: Laba2
 1. Cоздать deployment с 2 репликами
 
 ```
-kubectl apply -f deploy.yaml
+kubectl apply -f kbv1.yaml
 ```  
 ```
-kubectl apply -f service.yaml
+kubectl apply -f servicer.yaml
 ```  
 2. Просматриваем созданные сервисы
  ```
@@ -27,4 +27,4 @@ kubectl get service
 mkubectl port-forward svc/indfr-service 80:80
 ```
 # Схема 
-<div align = "center"><img src="https://github.com/Zepeler/Zepeler/blob/main/shema1.2.png" ></div>
+<div align = "center"><img src="https://github.com/Zepeler/Lb2-/blob/main/img/screen.jpg" ></div>
