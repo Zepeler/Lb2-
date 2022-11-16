@@ -24,7 +24,7 @@ kubectl get service
 ```   
 3. подключаемся к контейнерам через браузер
  ```
-mkubectl port-forward svc/indfr-service 80:80
+mkubectl port-forward svc/kbv-service 80:80
 ```
 # Схема 
-<div align = "center"><img src="https://github.com/Zepeler/Lb2-/blob/main/img/screen.jpg" ></div>
+<div align = "center"><img src="https://github.com/Zepeler/Lb2-/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-11-16%20%D0%B2%2020.34.53.png" ></div>
