@@ -21,7 +21,7 @@ spec:
         app: http-server
     spec:
       containers:
-      - name: indfr-app
+      - name: kbv-app
         image: ifilyaninitmo/itdt-contained-frontend:master
         ports:
         - containerPort: 9000
