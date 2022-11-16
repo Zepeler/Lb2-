@@ -4,7 +4,6 @@ Course: [Introduction to distributed technologies](https://github.com/itmo-ict-f
 Year: 2022/2023  
 Group: K4113c    
 Author: Zhelygin Daniil Yurievich 
-
 Lab: Laba2 
 
 # Развертывание веб сервиса в Minikube, доступ к веб интерфейсу сервиса. Мониторинг
