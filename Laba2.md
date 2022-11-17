@@ -23,7 +23,7 @@ kubectl apply -f servicer.yaml
  ```
 kubectl get service
 ```   
-4. подключаемся к контейнерам через браузер
+4. Подключаемся к контейнерам через браузер
  ```
 kubectl port-forward svc/kbv-service 80:80
 ```
